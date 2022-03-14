@@ -1,5 +1,5 @@
 module.exports = {
-    siteUrl: 'https://ssik824.vercel.app',
+    siteUrl: 'https://sozinhonao.vercel.app',
     generateRobotsTxt: true, // opcional
     priority: null,
     changefreq: null,
