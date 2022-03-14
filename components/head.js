@@ -33,6 +33,8 @@ export default function head({title}) {
                     <link rel="preconnect" href="https://fonts.gstatic.com" crossOrigin="true"/>
     
                     <link href="https://fonts.googleapis.com/css2?family=Oswald:wght@300;600&display=swap" rel="stylesheet"/>
+
+                    <meta name="google-site-verification" content="VhQSA-WAgNF6QY7IUMhGqwGRrRVmaGFvypFs0QZHGrM"/>
                     <title>{title}</title> 
                     </>
             </NextHead>
